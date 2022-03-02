@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-A **Software Engineering Student** 🚀 from Lahore, Pakistan.
- <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
+A **Software Engineering Student** 🚀 from Cologne, Germany.
+
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
