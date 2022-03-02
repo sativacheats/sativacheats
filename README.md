@@ -42,10 +42,9 @@ A **Software Engineering Student** 🚀 from Cologne, Germany.
 - 👨🏽‍💻 I’m currently learning.
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💼 I’m still going to school.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+- 📫 Text me on Discord: sativa#
 
 
 **Languages and Tools:**  
