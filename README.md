@@ -44,7 +44,7 @@ A **Software Engineering Student** 🚀 from Cologne, Germany.
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
 - 💼 I’m still going to school.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Text me on Discord: sativa#
+- 📫 Text me on Discord: sativa#7777
 
 
 **Languages and Tools:**  
