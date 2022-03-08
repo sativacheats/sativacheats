@@ -66,6 +66,6 @@ A **Software Engineering Student** 🚀 from Cologne, Germany.
 
 
 ----
-Credit: [ZamranxD](https://github.com/ZamranxD)
+Credits to: [ZamranxD](https://github.com/ZamranxD)
 
 Last Edited on: 23/09/2020
