@@ -14,8 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 title="made by vito"> Hey 👋, this is EA!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Lenny!</h3>
 
+<a href="#">
+  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/lenny.ksc/">
+  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
 
 
@@ -26,14 +35,17 @@ Here are some ideas to get you started:
 A **Software Engineering Student** 🚀 from Cologne, Germany.
 
 
-  <img align="right" alt="GIF" src="https://cdn-longterm.mee6.xyz/plugins/welcome/images/995300841684729877/041d25c9c0c37ba6c4de352245e762fbba00df259006bed1dea5b343193bad6c.png" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Us!**
+**About Me!**
 
-- 👨🏽‍💻 FiveM Development Organisation
-- 🌱 Creating Cars, High Quality Script for ESX & more..-
-- 💼 We're Students and realeasing our stuff for free
-- 💬 Text us on our Discord https://discord.gg/ETT9xtf9zx
+- 👨🏽‍💻 I’m currently learning.
+- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
+- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
+- 💼 I’m still going to school.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Text me on Discord: sativa#7777
+
 
 **Languages and Tools:**  
 
@@ -49,10 +61,12 @@ A **Software Engineering Student** 🚀 from Cologne, Germany.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-and of course lua <3
 
 ⭐️ From [CodingLenny](https://github.com/CodingLenny)
 
-----
 
-Last Edited on: 02/08/2022
+----
+Credits to: [ZamranxD](https://github.com/ZamranxD)
+
+Last Edited on: 23/09/2020
+
