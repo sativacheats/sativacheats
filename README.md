@@ -18,7 +18,7 @@ A **Software Engineering Student** 🚀 from Cologne, Germany.
 **sativacheats**
 - 💼 Gamecheating
 - 💬 DM for projects
-- 📫 Text me on Discord: [sativa#7777]([https://i.ibb.co/vhqySwB/logo-1.png](https://discord.gg/nJyNsMJg7U))
+- 📫 Text me on Discord: [sativa#1337]([https://i.ibb.co/vhqySwB/logo-1.png](https://discord.gg/nJyNsMJg7U))
 
 
 Last Edited on: 23/09/2020
