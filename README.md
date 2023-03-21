@@ -1,8 +1,6 @@
 <h3 title="hehehe"> S A T I V A</h3>
 
-<a href="https://www.instagram.com/lenny.ksc/">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 <img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
 
 
