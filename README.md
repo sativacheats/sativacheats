@@ -16,8 +16,7 @@
 **sativacheats**
 - 💼 Check out my Projects
 - 💬 DM for projects
-- 📫 Text me on Discord: [sativa#1337]([[[https://i.ibb.co/vhqySwB/logo-1.png](https://camo.githubusercontent.com/c73db46e6721f567d1e445d1f224e7c9abbe874092334f9c8ac702e6d608996a/68747470733a2f2f692e6962622e636f2f4e56575a63534e2f5753416373676f2e706e67)](https://camo.githubusercontent.com/c73db46e6721f567d1e445d1f224e7c9abbe874092334f9c8ac702e6d608996a/68747470733a2f2f692e6962622e636f2f4e56575a63534e2f5753416373676f2e706e67)]())
-
+- 📫 Text me on Discord: [sativa#1337] <img align="right" alt="image" src=" https://camo.githubusercontent.com/c73db46e6721f567d1e445d1f224e7c9abbe874092334f9c8ac702e6d608996a/68747470733a2f2f692e6962622e636f2f4e56575a63534e2f5753416373676f2e706e67" />
 
 Last Edited on: 23/09/2020
 
