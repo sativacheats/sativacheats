@@ -11,7 +11,7 @@
 **Software Engineering, System Administration & Integration** 🚀 from Cologne, Germany.
 
 
-  <img align="right" alt="image" src="" />
+  <img align="right" alt="image" src="https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-server2-4417099_116631.png" />
 
 **sativacheats**
 - 💼 Check out my Projects
