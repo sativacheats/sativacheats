@@ -11,7 +11,7 @@
 **Software Engineering, System Administration & Integration** 🚀 from Cologne, Germany.
 
 
-  <img align="right" alt="image" src="https://www.pegenau.de/wp-content/uploads/2021/04/Proxmox-logo-stacked-840px-e1652694728114.png" width="250px" height="180px"/>
+  <img align="right" alt="image" src="https://cdn.icon-icons.com/icons2/1367/PNG/512/32officeicons-31_89708.png" width="250px" height="250px"/>
 
 **sativacheats**
 - 💼 Check out my Projects
